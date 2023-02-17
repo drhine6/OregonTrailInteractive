@@ -5,7 +5,7 @@ var config = {
   inset: false,
   theme: "light",
   projection: "globe",
-  use3dTerrain: false,
+  use3dTerrain: true,
   title: "<h1>The Oregon Trail</h1>",
   subtitle: "",
   byline: "",
